@@ -5,17 +5,17 @@
 
 - 🌱 I’m tutoring on **Blockchain Development** 
 
-- 🗓️ Do you need help with a problem? [Schedule Your Sessions with Me](https://www.buymeacoffee.com/web3classes/e/78962)
+- 🗓️ Do you need help with a problem? 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raullam](https://github.com/Raullam)
 
-- 📝 I regularly write articles on [https://dev.to/raullam]([https://dev.to/daltonic](https://dev.to/raullam))
+- 📝 I regularly write articles on [https://dev.to/raullam](https://dev.to/raullam)
 
 - 💬 Ask me about **Blockchain Development**
 
 - 📫 How to reach me **Ruloxnft@gmail.com**
 
-- You want to learn from a Mentor? [Book your Private Web 3.0 Classes with Me](https://www.buymeacoffee.com/web3classes/e/74614)
+- You want to learn from a Mentor? [Book your Private Web 3.0 Classes with Me]
 
 - ⚡ Fun fact **I've a good sense of humor**
 
