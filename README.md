@@ -19,17 +19,7 @@
 
 - ⚡ Fun fact **I've a good sense of humor**
 
-/*### YouTube videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->*/
 
-/*### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat](https://raullam.github.io/Web-portfolio-2023/)
-- [How to Build a Profitable NFT Marketplace with React, Solidity, and CometChat](https://raullam.github.io/Web-portfolio-2023/)
-- [How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat](https://raullam.github.io/Web-portfolio-2023/)
-- [How to Code an Escrow Smart Contract: The Secured Approach](https://raullam.github.io/Web-portfolio-2023/)
-- [How to Code Solidity Smart Contract CRUD Functions: The Right Way](https://raullam.github.io/Web-portfolio-2023/)*/
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
