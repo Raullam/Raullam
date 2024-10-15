@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Raül Lama</h1>
 <h3 align="center">Developer Full-stack.</h3>
 
-- 🌱 I’m tutoring on **Blockchain Development** 
 
 - 🗓️ Do you need help with a problem? 
 
