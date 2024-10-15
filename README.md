@@ -1,4 +1,4 @@
-![Banner](https://raullam.github.io/miWeb/assets/images/68747470733a2f2f692e6962622e636f2f725a524a767a532f6f6e6c696e652d636c61737365732e706e67n.jpg)
+![Banner](https://raullam.github.io/miWeb/assets/images/heri.jpg)
 
 <h1 align="center">Hi 👋, I'm Raül Lama</h1>
 <h3 align="center">Developer Full-stack.</h3>
