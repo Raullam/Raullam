@@ -1,4 +1,6 @@
-![Banner](https://raullam.github.io/miWeb/assets/images/heri.jpg)
+![Banner](<p align="center">
+  <img src="https://raullam.github.io/miWeb/assets/images/heri.jpg" alt="Banner" width="200" style="border-radius: 50%;"/>
+</p>)
 
 <h1 align="center">Hi 👋, I'm Raül Lama</h1>
 <h3 align="center">Developer Full-stack.</h3>
