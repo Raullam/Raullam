@@ -5,36 +5,24 @@
 <h1 align="center">¡Hola 👋, soy Raül Lama!</h1>
 <h3 align="center">Desarrollador Multiplataforma con más de 5 años de experiencia en diversos lenguajes de programación y en bases de datos SQL y NoSQL. Actualmente enfocado en el análisis de datos y en automatizaciones usando MCP's.</h3>
   
-<h4 align="center">Experiencia:</h4>
+<h4>Experiencia:</h4>
+<h3 align="center">Tecnologías</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-
-      <h4>Frontend</h4>
+    <td valign="top">
+      <strong>Frontend</strong>
       <ul>
         <li>React</li>
         <li>Vue</li>
         <li>Vite</li>
         <li>Angular</li>
         <li>Flutter</li>
-        <li>HTML, XML, CSS, Tailwind</li>
+        <li>HTML, CSS, Tailwind</li>
       </ul>
-
-      <h4>Visualización de datos</h4>
-      <ul>
-        <li>Python</li>
-        <ul>
-          <li>Matplotlib</li>
-          <li>Pandas</li>
-          <li>Plotly</li>
-        </ul>
-      </ul>
-
     </td>
-    <td width="50%" valign="top">
-
-      <h4>Backend</h4>
+    <td valign="top">
+      <strong>Backend</strong>
       <ul>
         <li>Java
           <ul>
@@ -57,11 +45,48 @@
           </ul>
         </li>
       </ul>
-
+    </td>
+    <td valign="top">
+      <strong>Visualización de datos</strong>
+      <ul>
+        <li>Python
+          <ul>
+            <li>Matplotlib</li>
+            <li>Pandas</li>
+            <li>Plotly</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
 
+- **Frontend**
+  - React
+  - Vue
+  - Vite
+  - Angular
+  - Flutter
+  - HTML, CSS, Tailwind
+
+- **Backend**
+  - Java
+    - Spring Boot
+    - Hibernate
+    - JDBC
+    - JPA
+  - JavaScript/TypeScript
+    - Node.js
+    - Express
+    - NestJS
+  - Python
+    - Django
+
+- **Visualización de datos**
+  - Python
+    - Matplotlib
+    - Pandas
+    - Plotly
 
 Motivado por seguir aprendiendo y aportar valor.
 
