@@ -13,7 +13,7 @@
   - Vite
   - Angular
   - Flutter
-  - HTML, CSS, Tailwind
+  - HTML, XML, CSS, Tailwind
 
 - **Backend**
   - Java
