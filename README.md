@@ -64,11 +64,10 @@
 Motivado por seguir aprendiendo y aportar valor.
 
 - 🗓️ ¿Necesitas ayuda con algún proyecto?  
-- 👨‍💻 Todos mis proyectos: [GitHub](https://github.com/Raullam)  
-- 📝 Artículos: [Dev.to](https://dev.to/raullam)  
-- 💬 ¡Pregúntame sobre desarrollo!  
+- 👨‍💻 Puedes ver mis proyectos en: [GitHub](https://github.com/Raullam)  
+- 💬 ¡Pregúntame sobre desarrollo!
 - 📫 Contáctame en **Raullama90@gmail.com**  
-- ⚡ Dato curioso: **La programación es mi hobby**  
+- ⚡ Dato curioso: **La programación es mi trabajo y mi hobby**  
 
 ---
 
