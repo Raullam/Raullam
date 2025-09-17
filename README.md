@@ -99,7 +99,7 @@ Motivado por seguir aprendiendo y aportar valor.
 <h3 align="center">Diseño y Herramientas</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank">
-    <img src="[assets/images/figma.png](https://cdn-icons-png.flaticon.com/512/5968/5968705.png)" alt="figma" width="40" height="40"/>
+    <img src="https://github.com/Raullam/Portfolio_Flutter_25/blob/main/assets/assets/tecnologias/figma-icon.png" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank">
   <img src="https://github.com/Raullam/Portfolio_Flutter_25/blob/main/assets/assets/tecnologias/canva.png" alt="canva" width="40" height="40"/>
