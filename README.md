@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">¡Hola 👋, soy Raül Lama!</h1>
-<h3 align="center">Desarrollador Multiplataforma con varios años de experiencia en diversos lenguajes de programación y en bases de datos SQL. Actualmente enfocado en el analisis de datos, cuento con sólidos conocimientos también en bases de datos NoSQL.
+<h3 align="center">Desarrollador Multiplataforma con más de 5 años de experiencia en diversos lenguajes de programación y en bases de datos SQL y NoSQL. Actualmente enfocado en el analisis de datos y en automatizaciónes usando MCP's. </h3>
   
-Experiencia:
+<h4> Experiencia: </h4>
 
-Backend:
-Con Java (Spring Boot, Hibernate, JDBC, JPA) 
-Con JavaScript/TypeScript (Node.js, Express, NestJS). 
-Con Python (Django)
+</h5>Backend:
+\nCon Java (Spring Boot, Hibernate, JDBC, JPA). 
+\nCon JavaScript/TypeScript (Node.js, Express, NestJS). 
+\nCon Python (Django).
 
-En frontend: ( React, Vue, Vite, Angular y Flutter) . 
+\nEn frontend: ( React, Vue, Vite, Angular y Flutter) . 
 
 No hace falta comentar que tambien HTML, CSS, Tailwind.
 
-Además, cuento también con conocimientos en herramientas de visualización de datos con Python usando librerias como Matplotlib, Pandas, Plotly.. Motivado por seguir aprendiendo y aportar valor. </h3>
+Además, cuento también con conocimientos en herramientas de visualización de datos con Python usando librerias como Matplotlib, Pandas, Plotly.. Motivado por seguir aprendiendo y aportar valor. </h5>
 
 
 - 🗓️ ¿Necesitas ayuda con algún proyecto?  
