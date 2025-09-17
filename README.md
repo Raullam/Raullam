@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">¡Hola 👋, soy Raül Lama!</h1>
-<h3 align="center">Desarrollador Full-stack</h3>
+<h3 align="center">Desarrollador Multiplataforma con varios años de experiencia en diversos lenguajes de programación y en bases de datos SQL. Actualmente enfocado en el desarrollo de APIs y en la optimización de consultas, con sólidos conocimientos también en bases de datos NoSQL. Experiencia en backend con Java (Spring Boot, Hibernate, JDBC, JPA) y con JavaScript/TypeScript (Node.js, Express, NestJS). En frontend, especializado en frameworks y librerías como React, Vue, Angular y Flutter. Además, cuento con conocimientos en herramientas de visualización de datos con Python (Matplotlib, Pandas, Plotly). Motivado por seguir aprendiendo y aportar valor trabajando en equipo. </h3>
+
 
 - 🗓️ ¿Necesitas ayuda con algún proyecto?  
 - 👨‍💻 Todos mis proyectos: [GitHub](https://github.com/Raullam)  
