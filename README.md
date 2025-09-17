@@ -3,15 +3,28 @@
 </p>
 
 <h1 align="center">¡Hola 👋, soy Raül Lama!</h1>
-<h3 align="center">Desarrollador Multiplataforma con varios años de experiencia en diversos lenguajes de programación y en bases de datos SQL. Actualmente enfocado en el desarrollo de APIs y en la optimización de consultas, con sólidos conocimientos también en bases de datos NoSQL. Experiencia en backend con Java (Spring Boot, Hibernate, JDBC, JPA) y con JavaScript/TypeScript (Node.js, Express, NestJS). En frontend, especializado en frameworks y librerías como React, Vue, Angular y Flutter. Además, cuento con conocimientos en herramientas de visualización de datos con Python (Matplotlib, Pandas, Plotly). Motivado por seguir aprendiendo y aportar valor trabajando en equipo. </h3>
+<h3 align="center">Desarrollador Multiplataforma con varios años de experiencia en diversos lenguajes de programación y en bases de datos SQL. Actualmente enfocado en el analisis de datos, cuento con sólidos conocimientos también en bases de datos NoSQL.
+  
+Experiencia:
+
+Backend:
+Con Java (Spring Boot, Hibernate, JDBC, JPA) 
+Con JavaScript/TypeScript (Node.js, Express, NestJS). 
+Con Python (Django)
+
+En frontend: ( React, Vue, Vite, Angular y Flutter) . 
+
+No hace falta comentar que tambien HTML, CSS, Tailwind.
+
+Además, cuento también con conocimientos en herramientas de visualización de datos con Python usando librerias como Matplotlib, Pandas, Plotly.. Motivado por seguir aprendiendo y aportar valor. </h3>
 
 
 - 🗓️ ¿Necesitas ayuda con algún proyecto?  
-- 👨‍💻 Todos mis proyectos: [GitHub](https://github.com/Raullam)  
+- 👨‍💻 Aquí puedes ver todos mis proyectos: [GitHub](https://github.com/Raullam)  
 - 📝 Artículos: [Dev.to](https://dev.to/raullam)  
-- 💬 Pregúntame sobre **Desarrollo Blockchain**  
-- 📫 Contáctame en **Ruloxnft@gmail.com**  
-- ⚡ Dato curioso: **Tengo buen sentido del humor**  
+- 💬 ¡Pregúntame sobre desarrollo! 
+- 📫 Contáctame en **Raullama90@gmail.com**  
+- ⚡ Dato curioso: **La programación es mi hobby**  
 
 ---
 
