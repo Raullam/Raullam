@@ -8,11 +8,15 @@
 <h4> Experiencia: </h4>
 
 </h5>Backend:
-\nCon Java (Spring Boot, Hibernate, JDBC, JPA). 
-\nCon JavaScript/TypeScript (Node.js, Express, NestJS). 
-\nCon Python (Django).
 
-\nEn frontend: ( React, Vue, Vite, Angular y Flutter) . 
+Con Java (Spring Boot, Hibernate, JDBC, JPA). 
+
+Con JavaScript/TypeScript (Node.js, Express, NestJS). 
+
+Con Python (Django).
+
+
+En frontend: ( React, Vue, Vite, Angular y Flutter) . 
 
 No hace falta comentar que tambien HTML, CSS, Tailwind.
 
