@@ -61,33 +61,6 @@
   </tr>
 </table>
 
-- **Frontend**
-  - React
-  - Vue
-  - Vite
-  - Angular
-  - Flutter
-  - HTML, CSS, Tailwind
-
-- **Backend**
-  - Java
-    - Spring Boot
-    - Hibernate
-    - JDBC
-    - JPA
-  - JavaScript/TypeScript
-    - Node.js
-    - Express
-    - NestJS
-  - Python
-    - Django
-
-- **Visualización de datos**
-  - Python
-    - Matplotlib
-    - Pandas
-    - Plotly
-
 Motivado por seguir aprendiendo y aportar valor.
 
 - 🗓️ ¿Necesitas ayuda con algún proyecto?  
