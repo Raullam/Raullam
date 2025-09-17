@@ -62,6 +62,7 @@
   </tr>
 </table>
 
+
 Motivado por seguir aprendiendo y aportar valor.
 
 - 🗓️ ¿Necesitas ayuda con algún proyecto?  
